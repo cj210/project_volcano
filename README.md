@@ -9,8 +9,8 @@
 **Name:** Kalicharan  
 **Role:** Developer | Learner | Builder  
 **Focus Areas:** Web Development, Automation, and Project Management  
-**Email:** *(optional — add later if you want)*  
-**GitHub:** [https://github.com/kalicharan-hbs](https://github.com/kalicharan-hbs)
+**Email:** kalicharan.hbs@gmail.com 
+**GitHub:** https://github.com/cj210
 
 ---
 
