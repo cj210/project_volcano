@@ -1,1 +1,21 @@
+# Virtual environment
 provo/
+
+# SQLite database - Dev database file
+db.sqlite3
+
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
